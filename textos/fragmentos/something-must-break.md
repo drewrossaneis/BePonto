@@ -13,8 +13,6 @@ but not now.
 
 Something must break.  
 
-Something must break.  
-
 *BêPonto*
 
 <img src="https://raw.githubusercontent.com/drewrossaneis/BePonto/main/IMG_5719_small.jpeg" width="400"/>
